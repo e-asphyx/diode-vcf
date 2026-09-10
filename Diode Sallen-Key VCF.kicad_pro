@@ -526,7 +526,7 @@
         "track_width": 1.5,
         "tuning_profile": "",
         "via_diameter": 1.6,
-        "via_drill": 0.5,
+        "via_drill": 0.6,
         "wire_width": 6
       },
       {
@@ -710,7 +710,7 @@
         "uuid": "044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
       }
     ],
-    "used_designators": "H1-4,U1-7,JP1-17,R1-28,C1-21,D1-8,#PWR1-61,J1-24,RV1-8,SW1",
+    "used_designators": "H1-4,U1-8,JP1-17,R1-28,C1-21,D1-8,#PWR1-61,J1-24,RV1-8,SW1",
     "variants": []
   },
   "sheets": [
