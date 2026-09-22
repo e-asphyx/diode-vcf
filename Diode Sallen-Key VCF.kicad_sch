@@ -4072,6 +4072,12 @@
 		(uuid "3cae5195-0062-4c40-ad6e-ebe70c6ea484")
 	)
 	(junction
+		(at 341.63 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ead74a7-519c-4662-ac7e-ef69a6ecf69e")
+	)
+	(junction
 		(at 203.2 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4222,12 +4228,6 @@
 		(uuid "93f18c8b-f09e-4c91-a514-f86b9f275f20")
 	)
 	(junction
-		(at 335.28 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "972ed0e1-afc3-4130-9ea2-20926f0c72f5")
-	)
-	(junction
 		(at 96.52 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4304,6 +4304,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bcbc5cb6-59c4-4a5f-b735-54e0e86fc82c")
+	)
+	(junction
+		(at 53.34 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c15224dc-faa1-421f-a87d-faa2079d2fb6")
 	)
 	(junction
 		(at 157.48 158.75)
@@ -4421,7 +4427,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 218.44) (xy 63.5 218.44)
+			(xy 68.58 218.44) (xy 64.77 218.44)
 		)
 		(stroke
 			(width 0)
@@ -4601,7 +4607,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 147.32) (xy 341.63 166.37)
+			(xy 341.63 140.97) (xy 341.63 146.05)
 		)
 		(stroke
 			(width 0)
@@ -4668,6 +4674,16 @@
 			(type default)
 		)
 		(uuid "185a0e9b-e3ca-472a-92a2-e34904076a63")
+	)
+	(wire
+		(pts
+			(xy 53.34 218.44) (xy 53.34 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "191780e3-43bf-4274-a1ea-9663208f3eeb")
 	)
 	(wire
 		(pts
@@ -4761,7 +4777,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 143.51) (xy 318.77 143.51)
+			(xy 312.42 143.51) (xy 316.23 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4791,16 +4807,6 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 146.05) (xy 335.28 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "215b36df-df1c-4e5a-905d-ce430766664c")
-	)
-	(wire
-		(pts
 			(xy 205.74 237.49) (xy 204.47 237.49)
 		)
 		(stroke
@@ -4808,6 +4814,16 @@
 			(type default)
 		)
 		(uuid "22247ae8-a65f-4106-8c4e-2af583c57b9d")
+	)
+	(wire
+		(pts
+			(xy 53.34 229.87) (xy 53.34 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "248cdbde-30ee-4c4b-bd4e-e7236a431dd3")
 	)
 	(wire
 		(pts
@@ -5061,7 +5077,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 153.67) (xy 111.76 153.67)
+			(xy 100.33 153.67) (xy 111.76 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5421,7 +5437,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 153.67) (xy 101.6 153.67)
+			(xy 76.2 153.67) (xy 92.71 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5451,7 +5467,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 218.44) (xy 55.88 218.44)
+			(xy 41.91 218.44) (xy 53.34 218.44)
 		)
 		(stroke
 			(width 0)
@@ -5881,7 +5897,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 146.05) (xy 335.28 146.05)
+			(xy 331.47 146.05) (xy 341.63 146.05)
 		)
 		(stroke
 			(width 0)
@@ -6201,6 +6217,16 @@
 	)
 	(wire
 		(pts
+			(xy 341.63 146.05) (xy 341.63 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bbd80e8-6652-4992-adae-8cf5a066c899")
+	)
+	(wire
+		(pts
 			(xy 38.1 184.15) (xy 38.1 186.69)
 		)
 		(stroke
@@ -6431,7 +6457,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 138.43) (xy 335.28 140.97)
+			(xy 334.01 138.43) (xy 334.01 140.97)
 		)
 		(stroke
 			(width 0)
@@ -6791,7 +6817,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 127) (xy 341.63 139.7)
+			(xy 341.63 127) (xy 341.63 133.35)
 		)
 		(stroke
 			(width 0)
@@ -7361,6 +7387,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 218.44) (xy 57.15 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa7b0faa-eba6-4334-b7f5-3f0338793586")
+	)
+	(wire
+		(pts
 			(xy 38.1 137.16) (xy 35.56 137.16)
 		)
 		(stroke
@@ -7381,7 +7417,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 140.97) (xy 334.01 140.97)
+			(xy 334.01 140.97) (xy 331.47 140.97)
 		)
 		(stroke
 			(width 0)
@@ -7550,7 +7586,7 @@
 		(uuid "6c11c363-571f-4341-ad97-a352c5a6c52a")
 	)
 	(label "AUDIO_IN"
-		(at 53.34 218.44 90)
+		(at 52.07 218.44 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8060,7 +8096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06a5221b-7b57-41c4-99b8-943e9cbf28d4")
-		(property "Reference" "R25"
+		(property "Reference" "R26"
 			(at 287.02 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8124,7 +8160,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R25")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -8142,7 +8178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06d326de-25ec-4395-9442-9232cb1b2bfe")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 238.76 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -8203,7 +8239,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -8221,7 +8257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "086a05a3-6a3b-491d-83c6-a962b0737a9c")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 299.72 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -8282,7 +8318,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -8300,7 +8336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08d09499-c06c-418b-be30-8162ca12665d")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR010"
 			(at 60.96 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -8361,7 +8397,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR09")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8379,7 +8415,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09ef2d3b-e06e-4d93-99b6-d4afbfb81b19")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 153.67 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -8440,7 +8476,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -8613,7 +8649,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12fa49dd-e7cd-413b-99ed-9d99654f2111")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR020"
 			(at 212.09 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8674,7 +8710,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -8692,7 +8728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14800640-05cb-4283-8913-54e191a172d1")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR017"
 			(at 214.63 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -8753,7 +8789,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR016")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8797,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 153.67 90)
+		(at 96.52 153.67 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8771,8 +8807,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1606d032-9dd2-4c4a-ab3c-d9fe1a23bdf3")
-		(property "Reference" "R9"
-			(at 105.41 147.4257 90)
+		(property "Reference" "R7"
+			(at 96.52 147.4257 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8782,7 +8818,7 @@
 			)
 		)
 		(property "Value" "68k"
-			(at 105.41 149.9657 90)
+			(at 96.52 149.9657 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8792,7 +8828,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 105.41 155.448 90)
+			(at 96.52 155.448 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8803,7 +8839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 153.67 0)
+			(at 96.52 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8814,7 +8850,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 105.41 153.67 0)
+			(at 96.52 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8833,7 +8869,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R9")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -8850,7 +8886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "16c6140d-dbba-48a0-a742-c5270679b2d6")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 170.18 83.9257 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8912,7 +8948,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -9310,7 +9346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "254e1e12-a71b-42fd-97cc-34aa3726f632")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR018"
 			(at 214.63 229.87 0)
 			(hide yes)
 			(show_name no)
@@ -9371,7 +9407,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR017")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -9389,7 +9425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "278ac3b1-aa6e-47f8-9deb-e0bb3a97df8a")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 245.11 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -9450,7 +9486,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -9468,7 +9504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27ada330-9c03-4eb0-ae8b-d9428e932c23")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 255.27 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -9529,7 +9565,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -9546,7 +9582,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2963ed7a-ab8b-4abc-aa1d-e83825b53753")
-		(property "Reference" "R20"
+		(property "Reference" "R21"
 			(at 213.36 182.9857 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9608,7 +9644,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R20")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -9626,7 +9662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a8c554b-de86-4b7b-b87b-bcf95ad6ec9d")
-		(property "Reference" "R6"
+		(property "Reference" "R8"
 			(at 96.52 173.99 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9688,7 +9724,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R6")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -10052,7 +10088,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34fc20d7-3824-4f2b-b636-9c45ecbb5b4f")
-		(property "Reference" "R15"
+		(property "Reference" "R16"
 			(at 147.32 83.9257 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10114,7 +10150,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R15")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -10361,7 +10397,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 341.63 143.51 0)
+		(at 341.63 137.16 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10371,8 +10407,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b21b658-40ab-4cf1-bf0f-9f9310ae3346")
-		(property "Reference" "R28"
-			(at 344.17 142.2399 0)
+		(property "Reference" "R29"
+			(at 344.17 135.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10383,7 +10419,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 344.17 144.7799 0)
+			(at 344.17 138.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10394,7 +10430,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 339.852 143.51 90)
+			(at 339.852 137.16 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10405,7 +10441,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 341.63 143.51 0)
+			(at 341.63 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10416,7 +10452,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 341.63 143.51 0)
+			(at 341.63 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10435,7 +10471,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R28")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -10557,7 +10593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f97255c-dfab-47bb-a16d-92f4b7c4eb34")
-		(property "Reference" "R4"
+		(property "Reference" "R5"
 			(at 66.04 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10619,7 +10655,89 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R4")
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 53.34 226.06 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41686209-41bf-4776-9f36-5e1d826fe552")
+		(property "Reference" "R2"
+			(at 55.88 224.7899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "12k"
+			(at 55.88 227.3299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 55.118 226.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 53.34 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "15ec97ec-2851-448f-9e1f-98f0b3872742")
+		)
+		(pin "1"
+			(uuid "66f87a28-0408-4537-817b-65b10d0b46d3")
+		)
+		(instances
+			(project "Diode Sallen-Key VCF"
+				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -10853,7 +10971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45ae4ab0-9a8d-4dff-ae00-505cb5df7a6a")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR032"
 			(at 274.32 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -10913,7 +11031,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR031")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -10930,7 +11048,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48aa581b-34c7-4d7c-b2e6-0107c8d5ba19")
-		(property "Reference" "R21"
+		(property "Reference" "R22"
 			(at 237.49 162.6657 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10992,7 +11110,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R21")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -11010,7 +11128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49780aaa-6951-44ac-84cb-53d00e7bd3b4")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 71.12 224.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11074,7 +11192,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -11214,7 +11332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5085ceb0-d74c-4327-98a8-c897374b9009")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 222.25 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11274,7 +11392,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11292,7 +11410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5193c1f3-b1fa-4546-91c9-594fc8e0a3e0")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR011"
 			(at 68.58 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -11352,7 +11470,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR010")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -11370,7 +11488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "544d391b-df21-47ec-9480-51d07a735354")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 245.11 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -11431,7 +11549,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -12152,7 +12270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6705073f-daf6-4239-8f92-dbe1ea7c7d5c")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 234.95 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -12213,7 +12331,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -12493,7 +12611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a267f37-fda7-45ad-9492-5967a414178b")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 284.48 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -12553,7 +12671,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -12653,7 +12771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b325c94-73f0-414e-adb6-e22b50e8395c")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR012"
 			(at 66.04 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -12714,7 +12832,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR011")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -12971,7 +13089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7483d953-f9bc-4b61-a0f8-77419428716b")
-		(property "Reference" "R13"
+		(property "Reference" "R14"
 			(at 139.7 162.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13035,7 +13153,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R13")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -13334,7 +13452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78d1c753-5d38-48c5-b4d9-37550bb1d199")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 57.15 167.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13396,7 +13514,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -13512,7 +13630,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79d99a7b-f688-40db-be10-4edb5df1fba8")
-		(property "Reference" "R16"
+		(property "Reference" "R17"
 			(at 160.02 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13576,7 +13694,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R16")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -13693,7 +13811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b6b7492-f8f0-4e94-b383-634151bcec98")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 255.27 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -13754,7 +13872,85 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR030")
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 53.34 232.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bab1f63-0966-4f70-bfe4-9fb23e7ede6c")
+		(property "Reference" "#PWR09"
+			(at 53.34 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 53.34 237.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 53.34 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d0238bca-967a-4aa6-b259-f5b16b69edaa")
+		)
+		(instances
+			(project "Diode Sallen-Key VCF"
+				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -13772,7 +13968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c394dd2-f0c6-4348-a462-f6b1eb290cf8")
-		(property "Reference" "R14"
+		(property "Reference" "R15"
 			(at 139.7 181.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13836,7 +14032,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R14")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13853,7 +14049,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "815048d9-6bd4-4e36-a3a9-904ec5fafccc")
-		(property "Reference" "R23"
+		(property "Reference" "R24"
 			(at 237.49 182.9857 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13915,7 +14111,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R23")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -13933,7 +14129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81f00546-9590-4bec-9425-aef6f055ec3b")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 105.41 71.2257 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13995,7 +14191,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R8")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -14289,7 +14485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a264412-f429-4c78-adfd-f2e10d147fe7")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR019"
 			(at 214.63 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -14350,7 +14546,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR018")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -14529,7 +14725,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f9d3150-c475-4aae-a927-3123a8330f73")
-		(property "Reference" "R11"
+		(property "Reference" "R12"
 			(at 123.19 83.9257 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14591,7 +14787,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R11")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -14679,7 +14875,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
-		(at 326.39 143.51 0)
+		(at 323.85 143.51 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14690,7 +14886,7 @@
 		(dnp no)
 		(uuid "92d87b50-9ff4-403b-a7ca-b3101b090c9a")
 		(property "Reference" "U5"
-			(at 326.39 133.35 0)
+			(at 323.85 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14700,7 +14896,7 @@
 			)
 		)
 		(property "Value" "TL074"
-			(at 326.39 135.89 0)
+			(at 323.85 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14710,7 +14906,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 327.66 140.97 0)
+			(at 325.12 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14721,7 +14917,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 325.12 138.43 0)
+			(at 322.58 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14732,7 +14928,7 @@
 			)
 		)
 		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
-			(at 326.39 143.51 0)
+			(at 323.85 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14884,7 +15080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96aad3bf-96ab-4a0f-a3e6-d02e5ade5a99")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR015"
 			(at 137.16 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -14944,7 +15140,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR014")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -15061,7 +15257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ae53d2b-9354-4c8a-bf33-2d9ffe4630b4")
-		(property "Reference" "R27"
+		(property "Reference" "R28"
 			(at 295.91 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15123,7 +15319,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R27")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -15141,7 +15337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b23b2ba-7fdd-4464-b128-252c08102df0")
-		(property "Reference" "R10"
+		(property "Reference" "R11"
 			(at 110.49 229.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15203,7 +15399,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R10")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -15211,7 +15407,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 335.28 138.43 180)
+		(at 334.01 138.43 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15221,8 +15417,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9be3d51e-a066-42e8-8b12-5bc0a22bb388")
-		(property "Reference" "#PWR034"
-			(at 335.28 132.08 0)
+		(property "Reference" "#PWR035"
+			(at 334.01 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15233,7 +15429,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 335.28 133.35 0)
+			(at 334.01 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15243,7 +15439,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 335.28 138.43 0)
+			(at 334.01 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15254,7 +15450,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 335.28 138.43 0)
+			(at 334.01 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15265,7 +15461,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 335.28 138.43 0)
+			(at 334.01 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15281,7 +15477,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR034")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -15474,7 +15670,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k lin"
+		(property "Value" "10k"
 			(at 35.56 181.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15548,7 +15744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a39f7546-c061-4fd9-90b5-2972d6e1e8fe")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR014"
 			(at 114.3 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15609,7 +15805,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR013")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -15999,7 +16195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acfb4a9f-fb2c-42be-8346-f204051bb72e")
-		(property "Reference" "R22"
+		(property "Reference" "R23"
 			(at 237.49 172.8257 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16061,7 +16257,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R22")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -16079,7 +16275,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09d590a-0103-4071-a6fd-b6d3ca27d8b4")
-		(property "Reference" "R17"
+		(property "Reference" "R18"
 			(at 160.02 146.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16143,7 +16339,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R17")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -16237,7 +16433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b449fc59-fa02-45d0-ad27-4383be33757f")
-		(property "Reference" "R12"
+		(property "Reference" "R13"
 			(at 129.54 229.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16299,7 +16495,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R12")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -16395,7 +16591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7bde77d-a658-4550-8725-1cdbd24c7a9b")
-		(property "Reference" "R7"
+		(property "Reference" "R9"
 			(at 104.14 111.8657 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16457,7 +16653,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R7")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -16487,7 +16683,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "20k log"
+		(property "Value" "100k"
 			(at 35.56 219.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16977,7 +17173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cec853c8-32cd-41b4-a63f-73598e3c8525")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR013"
 			(at 109.22 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17038,7 +17234,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR012")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -17151,7 +17347,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "50k lin"
+		(property "Value" "50k"
 			(at 35.56 152.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17225,7 +17421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8a1eace-9e66-41f8-9deb-4dc781c49f49")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR021"
 			(at 222.25 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -17285,7 +17481,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR020")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -17559,7 +17755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbd7086c-2cf4-4978-b412-b31cda69a026")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR036"
 			(at 386.08 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -17619,7 +17815,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR035")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -17876,7 +18072,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dff70f8f-3d96-448b-82b1-439e0d39b493")
-		(property "Reference" "R26"
+		(property "Reference" "R27"
 			(at 289.56 160.1257 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17938,7 +18134,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R26")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -18053,7 +18249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1c9d218-52ab-40eb-b29c-33a83e4d9a84")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 238.76 224.79 0)
 			(hide yes)
 			(show_name no)
@@ -18114,7 +18310,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -18248,7 +18444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3ed119e-24cb-42aa-98fa-96ec9ba8587a")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR037"
 			(at 392.43 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -18308,7 +18504,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR036")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -18552,7 +18748,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 59.69 218.44 90)
+		(at 60.96 218.44 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18562,8 +18758,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed960db4-bc05-4d32-bebe-96b675b8af17")
-		(property "Reference" "R3"
-			(at 59.69 212.1957 90)
+		(property "Reference" "R4"
+			(at 60.96 212.1957 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18573,7 +18769,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 59.69 214.7357 90)
+			(at 60.96 214.7357 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18583,7 +18779,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 59.69 220.218 90)
+			(at 60.96 220.218 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18594,7 +18790,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 218.44 0)
+			(at 60.96 218.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18605,7 +18801,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 59.69 218.44 0)
+			(at 60.96 218.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18624,7 +18820,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -18807,7 +19003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0cd3014-20c4-48f8-b9a8-201bf4a615ca")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 168.91 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18869,7 +19065,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -19209,7 +19405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f52dac01-6e9a-4cdf-a20b-58cc59345b4c")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR030"
 			(at 265.43 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -19270,7 +19466,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR029")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -19450,7 +19646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb9ec611-34dd-4050-a5b7-67888995aba4")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 229.87 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -19511,7 +19707,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -19611,7 +19807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbf17192-b9e8-400b-9bfe-c1b1de29a64c")
-		(property "Reference" "R24"
+		(property "Reference" "R25"
 			(at 276.86 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19675,7 +19871,7 @@
 		(instances
 			(project "Diode Sallen-Key VCF"
 				(path "/044ce31f-a56b-4ee2-9d5d-adcdbf76b311"
-					(reference "R24")
+					(reference "R25")
 					(unit 1)
 				)
 			)
